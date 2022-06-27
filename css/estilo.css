@@ -1,0 +1,27 @@
+body{
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+}
+header{
+display: flex;
+justify-content: space-between;
+
+    background-color: aqua;
+    width: 800px;
+    margin:0px auto ;
+    height: 200 px;
+}
+header img{
+width: 60px;
+height: 60px;
+
+}
+header h1{
+    margin-right: 50px;
+    text-decoration: none;
+}
+main{
+    background-color:antiquewhite;
+    width: 800px;
+    margin: 0px auto;
+}
